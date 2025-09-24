@@ -1,7 +1,7 @@
-# Rethinking Voxels
+# EnhancedShaders
 Hello!
 
-You are looking at rethinking-voxels, a minecraft shaderpack. It is an edited version of Complementary Reimagined, and it follows the same visual style, but it also has coloured lights with ray-traced shadows and more VL.
+You are looking at EnhancedShaders, a minecraft shaderpack. It is an edited version of Rethinking-Voxels, and it follows the same visual style, but it also has colored lights with ray-traced shadows and more VL.
 
 ## How to Install
 
@@ -13,7 +13,7 @@ you can find your shaderpacks folder by opening minecraft with Iris installed, n
 
 ## Pull requests
 
-The main branch is no longer used for active development. Please do any pull requests against the most recently updated branch.
+The main branch is used for active development. Please do any pull requests against the most recently updated branch.
 
 ## Credits
 
